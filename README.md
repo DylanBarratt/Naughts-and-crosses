@@ -1,8 +1,4 @@
-# Unbeatable Noughts & Crosses
-
-## Table of Contents
-
-- [About](#about)
+# <h1> <a href ="dylanbarratt.com/projects/Noughts & crosses"> Unbeatable Noughts & Crosses </a> </h1>
 
 ## About <a name = "about"></a>
 
