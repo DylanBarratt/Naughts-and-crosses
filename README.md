@@ -1,4 +1,4 @@
-# <h1> <a href ="https://www.dylanbarratt.com/projects/Noughts & crosses"> Unbeatable Noughts & Crosses </a> </h1>
+# <h1> <a href ="http://dylanbarratt.com/projects/nc/"> Unbeatable Noughts & Crosses </a> </h1>
 
 ## About <a name = "about"></a>
 
